@@ -6,4 +6,3 @@ cd radare2
 PATH=$PATH:$HOME/bin
 r2pm init
 r2pm -ci r2ghidra-dec
-bash
